@@ -1,5 +1,5 @@
  ## Olá! Sou o Gabriel Dângelo
-
+Sou estudante de Análise e Desenvolvimento de Sistemas, e atualmente estou buscando me encontrar na área, estudando e codando sempre.
  <div>
   <a href="https://github.com/GabrielDangelo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielDangelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
